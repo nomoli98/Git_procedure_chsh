@@ -28,10 +28,12 @@
 
 ### Commit files to be sent
 
-| CMD COMMAND                                              | USE                                                                         | 
-|----------------------------------------------------------|-----------------------------------------------------------------------------|
-| ```git add [file] ```                                    | Add [file] to the staging area git add . ➢ Add all to the staging area git |
-| ```commit -m ”…” ➢ Commit changes to head git status``` | Check the status of the local files                                         |
+| CMD COMMAND                                              | USE                                 | 
+|----------------------------------------------------------|-------------------------------------|
+| ```git add [file] ```                                    | Add [file] to the staging area      |
+| ```git add .```                                          | Add all to the staging area git     |
+| ```commit -m ”…” ➢ Commit changes to head git status``` | Check the status of the local files |
+                                      |
 
 ## NEW REMOTE REPOSITORY
 
