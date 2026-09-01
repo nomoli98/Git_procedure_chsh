@@ -7,7 +7,7 @@
 ```
 cd [container directory/path]	            ➢ Get to the container file
 mkdir [directory name]	                  ➢ Create a new directory
-touch [file name.ext]	                    ➢ Create the files
+touch [file name.ext]	                    ➢ Create the files (NOT ON WINDOWS, UNIX CMD)
 git init	                                ➢ Add a git file
 touch .gitignore	                        ➢ Add a .gitignore
 echo “…” >> [file name]	                  ➢ Add text into [file]
