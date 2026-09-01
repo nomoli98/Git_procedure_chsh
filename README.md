@@ -92,6 +92,7 @@ New repository ➢ Duh Do not use the ready-mad .gitignore ➢ Way too complicat
 
 | CMD COMMAND                            | USE                                                                          | 
 |----------------------------------------|------------------------------------------------------------------------------|
-| ```git add [file] ```                  | Add [file] to the staging area git add . ➢ Add all to the staging area git  |
+| ```git add [file] ```                  | Add [file] to the staging area                                               |
+| ``` git add . ```                      | Add all to the staging area git                                              |
 | ```commit -m ”…”   ```                 | Commit changes to head git status ➢ Check the status of the local files git |
 | ```push [repository alias] [branch]``` | Send to the remote repository                                                |
