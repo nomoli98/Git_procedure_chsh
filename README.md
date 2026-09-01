@@ -5,7 +5,7 @@
 ### Console commands to create a new project
 
 ```
-cd [container directory/path]	            ➢ Get to the container file
+cd [container directory/path] | Get to the container file
 mkdir [directory name]	                  ➢ Create a new directory
 touch [file name.ext]	                    ➢ Create the files (NOT ON WINDOWS, UNIX CMD)
 git init	                                ➢ Add a git file
