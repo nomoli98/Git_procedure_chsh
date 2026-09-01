@@ -48,10 +48,11 @@ New repository ➢ Duh Do not use the ready-mad .gitignore ➢ Way too complicat
 
 ### Get project from remote repository
 
-| CMD COMMAND                                                           | USE                        | 
-|-----------------------------------------------------------------------|----------------------------|
-| ```git pull ➢ Get the entire project from GitHub git clone [url] ``` | Make a copy of the project | |
- ```Create a new BRANCH to work```                                     | See BRANCHES               |
+| CMD COMMAND                       | USE                                | 
+|-----------------------------------|------------------------------------|
+| ```git pull```                    | Get the entire project from GitHub |
+| ``` git clone [url] ```           | Make a copy of the project         | 
+| ```Create a new BRANCH to work``` | See BRANCHES                       |
 
 ## BRANCHES
 
